@@ -20,6 +20,7 @@ public class MyCat extends Cat
         walkRight(2);
         eat();
         sleep(1);
+        sleep(2); //durmamos un poquito
         if (isSleepy())
         {
             sleep(3);
